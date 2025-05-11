@@ -1,0 +1,22 @@
+# Ignore CSV files (datasets)
+*.csv
+
+# Ignore large files or binary files
+*.h5
+*.pkl
+*.exe
+*.pyc
+__pycache__/
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.sqlite3
+logs/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+venv/
+env/
